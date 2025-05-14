@@ -32,5 +32,4 @@ docker run -it --rm --net=host --env DISPLAY=$DISPLAY --volume="/tmp/.X11-unix:/
 ## 3. About this Docker Image
 - RVIZ2 is working.
 - Gazebo is Working.
-- RQT is working.
 - For editing, Gedit is added. No other Editor is available.
